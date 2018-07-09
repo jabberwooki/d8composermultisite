@@ -11,5 +11,5 @@ $sites = array(
   'www.d8composermultisite1.localhost' => 'site1',
 
   // Korora dev instances
-  'd8composermultisite1.korora.fr' => 'site1',
+  'd8compmulti1.korora.fr' => 'site1',
 );
