@@ -1,0 +1,14 @@
+uuid: f2378a8d-d377-412f-8026-cb08143f80c1
+langcode: fr
+status: false
+dependencies: {  }
+id: local
+label: Local
+folder: ../config/envs/local
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
