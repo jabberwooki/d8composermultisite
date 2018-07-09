@@ -1,0 +1,14 @@
+uuid: a6903ea9-89d8-4005-beaf-f0c230383a61
+name: 'D8 Comp Multisite 1 (local)'
+mail: christophe.espiau@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
