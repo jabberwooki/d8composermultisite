@@ -1,0 +1,15 @@
+uuid: 08044fa3-75bc-4f50-b384-dd55b61e4000
+langcode: fr
+status: false
+dependencies: {  }
+id: site2
+label: 'Site 2'
+folder: ../config/sites/site2
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.site
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
