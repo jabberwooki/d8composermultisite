@@ -9,7 +9,9 @@
 $sites = array(
   // Local instances
   'www.d8composermultisite1.localhost' => 'site1',
+  'www.d8composermultisite2.localhost' => 'site2',
 
   // Korora dev instances
   'd8compmulti1.korora.fr' => 'site1',
+  'd8compmulti2.korora.fr' => 'site2',
 );
